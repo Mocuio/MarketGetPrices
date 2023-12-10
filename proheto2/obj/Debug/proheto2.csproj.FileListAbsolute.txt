@@ -52,3 +52,57 @@ C:\Users\rafael\source\repos\Projeto (BETA)\proheto2\obj\Debug\proheto2.csproj.C
 C:\Users\rafael\source\repos\Projeto (BETA)\proheto2\obj\Debug\proheto2.csproj.CopyComplete
 C:\Users\rafael\source\repos\Projeto (BETA)\proheto2\obj\Debug\proheto2.exe
 C:\Users\rafael\source\repos\Projeto (BETA)\proheto2\obj\Debug\proheto2.pdb
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\proheto2.exe.config
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\proheto2.exe
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\proheto2.pdb
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\CsvHelper.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Buffers.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Memory.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\CsvHelper.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Buffers.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Memory.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\obj\Debug\proheto2.csproj.AssemblyReference.cache
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\obj\Debug\proheto2.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\obj\Debug\proheto2.csproj.CopyComplete
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\obj\Debug\proheto2.exe
+C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\obj\Debug\proheto2.pdb
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\proheto2.exe.config
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\proheto2.exe
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\proheto2.pdb
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\CsvHelper.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Buffers.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Memory.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\CsvHelper.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Buffers.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Memory.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\obj\Debug\proheto2.csproj.AssemblyReference.cache
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\obj\Debug\proheto2.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\obj\Debug\proheto2.csproj.CopyComplete
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\obj\Debug\proheto2.exe
+C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\obj\Debug\proheto2.pdb

@@ -78,8 +78,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="archive.csv" />
     <None Include="packages.config" />
+    <None Include="Tabela.csv" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="urls.txt" />
