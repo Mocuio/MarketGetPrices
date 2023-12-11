@@ -10,10 +10,12 @@ namespace classes
 {
     public class ProductInf
     {
+        public string Sku { get; set; }
         public string ProductName { get; set; }
         public string Price { get; set; }
         public string Seller { get; set; }
         public string AdType { get; set; }
+     
     }
 
     public class ProductMap : ClassMap<ProductInf>
@@ -24,6 +26,7 @@ namespace classes
             Map(p => p.Price).Name("Price");
             Map(p => p.Seller).Name("Seller");
             Map(p => p.AdType).Name("AdType");
+            Map(p => p.Sku).Name("Sku");
         }
     }
 

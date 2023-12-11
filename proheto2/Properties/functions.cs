@@ -47,7 +47,7 @@ namespace ProjectFunctions
 
                 foreach (var data in datas)
                 {
-                    Console.WriteLine($"{data.ProductName} ,{data.Seller}, {data.Price}, {data.AdType}");
+                    Console.WriteLine($"{data.Sku},{data.ProductName} ,{data.Seller}, {data.Price}, {data.AdType}");
                 }
             }
         }
@@ -108,10 +108,10 @@ namespace ProjectFunctions
                 //Console.WriteLine($"{productType.ProductName},{productType.Price},{productType.Seller},{productType.AdType}\n");
 
 
-                tList.Add(new ProductInf() { ProductName = productType.ProductName, Price = productType.Price, Seller = productType.Seller, AdType = productType.AdType });
+                tList.Add(new ProductInf() { Sku = kvp.Key,ProductName = productType.ProductName, Price = productType.Price, Seller = productType.Seller, AdType = productType.AdType });
 
 
-                using (var writer = new StreamWriter(@"C:\Users\rafael\Documents\GitHub\MarketGetPrices - Copia\proheto2\Tabela.csv"))
+                using (var writer = new StreamWriter(@"C:\Users\rafael\Documents\GitHub\MarketGetPrices\proheto2\Tabela.csv"))
                 using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
                 {
                  

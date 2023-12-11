@@ -53,7 +53,7 @@
 846,https://produto.mercadolivre.com.br/MLB-4202257316-biomarine-body-lift-firmeness-effective-200ml-_JM
 764,https://produto.mercadolivre.com.br/MLB-3685015520-melano-defense-clareador-e-protetor-fps90-50g-biomarine-_JM
 279,https://produto.mercadolivre.com.br/MLB-3363252155-sun-marine-fps30-sun-crean-150ml-biomarine-_JM
-891,https://produto.mercadolivre.com.br/MLB-3345217019-hidratante-facial-biomarine-hyaluronic-stick-acqua-12g-_JM
+891,https://www.mercadolivre.com.br/hidratante-facial-biomarine-hyaluronic-stick-acqua-12g/p/MLB22775480/s?pdp_filters=item_id:MLB3420204891
 979,https://produto.mercadolivre.com.br/MLB-3894163792-ativador-e-modelador-anti-frizz-cachos-1l-apse-vegano-_JM
 839,https://produto.mercadolivre.com.br/MLB-3352783937-protetor-solar-sun-marine-fluido-acqua-fps75-50ml-biomarine-_JM
 644,https://produto.mercadolivre.com.br/MLB-3761227226-sun-marine-fps40-controlador-de-oleosidade-50g-biomarine-_JM
