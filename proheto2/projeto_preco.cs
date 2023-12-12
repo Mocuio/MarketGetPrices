@@ -23,8 +23,8 @@ namespace projeto
         static void Main(string[] args)
         {
             Functions pg = new Functions();
-           pg.GetDocInfo();
-           pg.GetClientlinks();
+           //pg.GetDocInfo();
+           //pg.GetClientlinks();
            pg.WriteCsvDocument();
            
             //pg.ReadCsvDocument();
